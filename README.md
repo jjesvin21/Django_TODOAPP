@@ -9,6 +9,7 @@ GET : get all tasks
 POST : add new task 
 
  /todo/id
+ 
 GET : get single task
 PUT : to update a specific task
 DELETE : to deleate a specific task

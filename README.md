@@ -15,4 +15,4 @@ GET : get single task
 
 PUT : to update a specific task
 
-DELETE : to deleate a specific task
+DELETE : to delete a specific task
